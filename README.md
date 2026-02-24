@@ -20,7 +20,7 @@ Building robust web applications with a focus on architecture design, documentat
 
 ### What I Do
 
-- **Architecture & Design** — RFC5545 recurring task engine, RBAC+ReBAC hybrid ACL (737-line design doc), 9-state FSM with event sourcing
+- **Architecture & Design** — RFC5545 recurring task engine, RBAC+ReBAC hybrid ACL with deny-by-default evaluation, 9-state FSM with event sourcing
 - **Quality Engineering** — VRT pipeline (Storybook + storycap + reg-suit), 70%+ rendering optimization via React Profiler
 - **Full-Stack Development** — TypeScript, React, Apollo Client, NestJS, GraphQL, FastAPI, Celery, PostgreSQL
 - **Technical Consulting** — MECE analysis, 5-axis weighted scoring, executive presentation design
@@ -42,8 +42,8 @@ Building robust web applications with a focus on architecture design, documentat
 | Period | Role | Problem → Solution → Impact |
 |--------|------|-----------------------------|
 | 2025 | Backend Engineer, AI Translation SaaS | Translation post-processing had no state management → Designed 9-state FSM with immutable event sourcing and Celery distributed tasks → Enabled reliable AI-powered translation pipeline |
-| 2025 | Technical Consultant, EdTech | Legacy VBScript/Oracle system with unknown quality → SonarQube analysis (130K lines, 1,451 bugs) + 3-option comparison matrix → Secured COO approval for modernization |
-| 2024-25 | Full-Stack Engineer, Manufacturing SaaS | Manual recurring task creation + no access control → RFC5545 engine (858-line spec) + RBAC+ReBAC hybrid ACL (737-line design doc) → Automated scheduling + verified 30+ use cases |
+| 2025 | Technical Consultant, EdTech | Legacy system modernization strategy needed → Static analysis for quantitative assessment + 3-option comparison matrix with decision tree → Secured COO approval for recommended path |
+| 2024-25 | Full-Stack Engineer, Manufacturing SaaS | Manual recurring task creation + no access control → RFC5545 recurring engine + RBAC+ReBAC hybrid ACL with deny-by-default evaluation → Automated scheduling + verified 30+ use cases |
 | 2022-24 | FE Tech Lead, HR SaaS | CSS regression undetected + hardcoded form logic → VRT pipeline (215 stories, 0.1% threshold) + Specification Pattern form builder → Automated UI quality + self-service form config |
 
 ### Writing
