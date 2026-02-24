@@ -13,6 +13,11 @@ Building robust web applications with a focus on architecture design, documentat
 - Trilingual: Japanese (native), English (IELTS 7.0, TOEIC 960), Chinese (HSK 6)
 - Former FE Tech Lead for a 10-person team (2 years)
 
+### Currently
+
+- Building a career data pipeline CLI with SQLite + MCP tools for structured experience tracking
+- Writing technical blog posts on distributed systems concepts at [tosh.sh](https://blog.tosh-dot-sh.dev)
+
 ### What I Do
 
 - **Architecture & Design** — RFC5545 recurring task engine, RBAC+ReBAC hybrid ACL (737-line design doc), 9-state FSM with event sourcing
@@ -32,14 +37,20 @@ Building robust web applications with a focus on architecture design, documentat
 
 **Testing** `Playwright` `Vitest` `VRT (storycap + reg-suit)` `SonarQube`
 
-### Selected Work
+### Featured Work
 
-| Period | Role | Highlights |
-|--------|------|------------|
-| 2025 | Backend Engineer, AI Translation SaaS | 9-state FSM, Celery distributed tasks, Docker/GHCR deploy infra |
-| 2025 | Technical Consultant, EdTech | NotebookLM RAG search, SonarQube legacy analysis, COO approval |
-| 2024-25 | Full-Stack Engineer, Manufacturing SaaS | RFC5545 recurring tasks, hybrid ACL, Google Calendar UI (full scratch) |
-| 2022-24 | FE Tech Lead, HR SaaS | Specification Pattern form builder, Suspense dashboard, VRT pipeline |
+| Period | Role | Problem → Solution → Impact |
+|--------|------|-----------------------------|
+| 2025 | Backend Engineer, AI Translation SaaS | Translation post-processing had no state management → Designed 9-state FSM with immutable event sourcing and Celery distributed tasks → Enabled reliable AI-powered translation pipeline |
+| 2025 | Technical Consultant, EdTech | Legacy VBScript/Oracle system with unknown quality → SonarQube analysis (130K lines, 1,451 bugs) + 3-option comparison matrix → Secured COO approval for modernization |
+| 2024-25 | Full-Stack Engineer, Manufacturing SaaS | Manual recurring task creation + no access control → RFC5545 engine (858-line spec) + RBAC+ReBAC hybrid ACL (737-line design doc) → Automated scheduling + verified 30+ use cases |
+| 2022-24 | FE Tech Lead, HR SaaS | CSS regression undetected + hardcoded form logic → VRT pipeline (215 stories, 0.1% threshold) + Specification Pattern form builder → Automated UI quality + self-service form config |
+
+### Writing
+
+- [ACID vs CAP "Consistency" — completely different concepts](https://blog.tosh-dot-sh.dev/blog/acid-cap-consistency/)
+- [Command Pattern serialization — treating commands as data](https://blog.tosh-dot-sh.dev/blog/command-pattern-serialization/)
+- [CAP "Availability" vs Infrastructure availability — different concepts](https://blog.tosh-dot-sh.dev/blog/cap-availability/)
 
 ### Links
 
