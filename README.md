@@ -48,9 +48,10 @@ Building robust web applications with a focus on architecture design, documentat
 
 ### Writing
 
-- [ACID vs CAP "Consistency" — completely different concepts](https://blog.tosh-dot-sh.dev/blog/acid-cap-consistency/)
+- [ACID vs CAP "Consistency" — completely different concepts]([https://blog.tosh-dot-sh.dev/blog/acid-cap-consistency/](https://blog.tosh-dot-sh.dev/blog/acid-cap-consistency-difference/)
 - [Command Pattern serialization — treating commands as data](https://blog.tosh-dot-sh.dev/blog/command-pattern-serialization/)
-- [CAP "Availability" vs Infrastructure availability — different concepts](https://blog.tosh-dot-sh.dev/blog/cap-availability/)
+- [CAP "Availability" vs Infrastructure availability — different concepts](https://blog.tosh-dot-sh.dev/blog/infra-cap-availability-difference/)
+
 
 ### Links
 
